@@ -40,4 +40,4 @@ alert( res );
 ## Languages
 
 - **Russian** - native speaker.
-- **English** - C2.
+- **English** - A2.
