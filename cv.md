@@ -1,4 +1,4 @@
-# **VLADIMIR NAGORNYI **
+# **VLADIMIR NAGORNYI**
 
 ## **Contacts**
 
@@ -33,9 +33,9 @@ alert( res );
 ## **Education**
 
 - **Udemy**
-- [HTML, CSS](https://www.udemy.com/course/webdeveloper/)
+  - [HTML, CSS](https://www.udemy.com/course/webdeveloper/)
 - **Courses:**
-- [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
+  - [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 
 ## Languages
 
